@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1694683167694-ef444f2fff9d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTU1ODcxODB8&ixlib=rb-4.0.3&q=85');
+}
+
+#containment-wrapper {
+    height: 80vh;
+}
+
+#doge-meme-pic {
+    height: 50vh;
+    width: auto;
+    border-radius: 11%;
+}
